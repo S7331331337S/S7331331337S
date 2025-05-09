@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @S7331331337S
-  
-
-<!---
-S7331331337S/S7331331337S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m a creative strategist, a code conjurer, and a digital playmaker.
+- I bend these bots like bedtime, smooth, calculated, and just the right amount of dangerous.
+- I architect automations that don’t just work—they flirt with perfection.
+- From pitch decks to pipelines, I build like it’s foreplay and ship like it’s go-time.
