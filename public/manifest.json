@@ -1,0 +1,23 @@
+{
+  "name": "Sprout - Plant Community",
+  "short_name": "Sprout",
+  "description": "Connect with fellow gardeners to buy, sell, trade plants, seeds, tools, and share gardening knowledge in your local community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#4a9c5d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["social", "shopping", "lifestyle"]
+}
