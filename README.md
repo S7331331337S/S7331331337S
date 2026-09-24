@@ -8,3 +8,4 @@
 #+#       #+# #+#    #+#    #+#     #+#    #+# #+#       #+# #+#   #+#+# #+#    #+#
 ###       ###  ########     ###     ###    ### ###       ### ###    #### #########
 ```
+[![GitHub Streak](https://streak-stats.demolab.com?user=S7331331337S)](https://git.io/streak-stats)
